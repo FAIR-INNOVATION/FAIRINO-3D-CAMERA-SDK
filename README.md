@@ -1,1 +1,2 @@
-# FAIRINO-3D-CAMERA-SDK
+# FAIRINO_OLSPS_doc
+FAIR Olsps documentation
